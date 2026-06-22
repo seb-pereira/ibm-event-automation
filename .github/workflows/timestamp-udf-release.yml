@@ -1,4 +1,4 @@
-name: Timestamp UDF release
+name: Timestamp UDF build
 
 on:
   release:
