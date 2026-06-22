@@ -11,12 +11,12 @@
 
     <name>IBM Event Processing Timestamp UDFs</name>
     <description>ISO 8601 timestamp parsing user-defined functions for Apache Flink</description>
-    <url>TO_BE_DEFINED</url>
+    <url>https://github.com/IBM/ibm-event-automation/tree/main/event-processing/timestamp-udf</url>
 
     <licenses>
         <license>
             <name>Apache-2.0</name>
-            <url>TO_BE_DEFINED</url>
+            <url>https://github.com/IBM/ibm-event-automation/blob/main/event-processing/timestamp-udf/LICENSE</url>
             <distribution>repo</distribution>
         </license>
     </licenses>
