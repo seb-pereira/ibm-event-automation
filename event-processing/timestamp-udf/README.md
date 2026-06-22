@@ -1,5 +1,8 @@
 # IBM Event Processing Timestamp UDFs
 
+[![Timestamp UDF release](https://github.com/seb-pereira/ibm-event-automation/actions/workflows/timestamp-udf-release.yml/badge.svg)](https://github.com/seb-pereira/ibm-event-automation/actions/workflows/timestamp-udf-release.yml)
+
+
 User-defined functions (UDFs) for Apache Flink SQL that parse ISO 8601 and SQL-formatted timestamp strings. 
 Originally developed for IBM Event Processing.
 
